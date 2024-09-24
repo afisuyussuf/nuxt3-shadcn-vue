@@ -4,6 +4,15 @@ const loading = ref(false)
 
 <template>
     <div>
-        <Button>Clic me</Button>
+        <header>
+            This is my header
+        </header>
+        <main>
+            This is my main
+            <section></section>
+        </main>
+        <footer>
+            This is footer
+        </footer>
     </div>
 </template>
