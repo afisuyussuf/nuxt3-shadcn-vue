@@ -1,3 +1,9 @@
+<script setup>
+const loading = ref(false)
+</script>
+
 <template>
-    <div>Hello</div>
+    <div>
+        <Button>Clic me</Button>
+    </div>
 </template>
